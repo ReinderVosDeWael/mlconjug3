@@ -1,3 +1,5 @@
+A fork of mlconjug3 that makes the dependency management more permissive.
+
 .. image:: https://raw.githubusercontent.com/Ars-Linguistica/mlconjug3/master/logo/logotype2%20mlconjug.png
         :target: https://pypi.python.org/pypi/mlconjug3
         :alt: mlconjug3 PyPi Home Page
